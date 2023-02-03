@@ -14,6 +14,8 @@ public class tasks {
 
         System.out.println("Just something");
 
+        System.out.println("Another Just something");
+
         input.close();
     }
 }

@@ -11,6 +11,9 @@ public class tasks {
 
         System.out.println("The number is " + n);
 
+
+        System.out.println("Just something");
+
         input.close();
     }
 }
